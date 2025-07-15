@@ -1,0 +1,24 @@
+Aditya Gaurav
+📞 +91 {Contact}
+📧 adityagaurav13a@gmail.com
+{LinkedIn_URL}
+
+{Date}
+
+Hiring Manager
+{Company_Name}
+
+Dear Hiring Manager,
+
+I am writing to express my keen interest in the {Job_title} position at {Company_Name}, as advertised. With over 3+ years of experience as a Quality Assurance and Test Automation Engineer at Capgemini, I bring a strong foundation in test strategy, automation, and system validation, particularly within complex network and optical domains such as Cisco’s NCS product line (1004, 1010, 1014).
+
+Throughout my career, I have consistently delivered high-impact testing solutions by blending automation frameworks (Python, Pytest, CAFY) with robust manual strategies across functional, regression, and system-level domains. My recent initiatives—such as reducing image bring-up times by 80%, leading large-scale framework migrations, and driving CI-integrated memory leak detection—demonstrate my commitment to both quality and innovation. I’ve also served briefly as Scrum Master, driving agile ceremonies and aligning QA with delivery roadmaps.
+
+Beyond my technical contributions, I’ve collaborated with cross-functional teams, interacted directly with customers to troubleshoot issues, and earned internal recognition including the “Automation Champion – 2025” award. My certifications in Git, Linux, networking, and Python further enhance my readiness for dynamic, engineering-focused environments.
+
+I am excited about the opportunity to contribute my expertise in automation and infrastructure QA to [Company Name], and to continue growing within a forward-thinking team. I welcome the chance to discuss how I can bring value to your organization and support your quality goals.
+
+Thank you for considering my application. I look forward to the possibility of an interview.
+
+Warm regards,
+Aditya Gaurav
